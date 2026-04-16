@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const apiBase = "http://localhost:8080/api";
+const apiBase = "http://localhost:8081/api";
 
 const emptyMenuForm = {
   itemName: "",
